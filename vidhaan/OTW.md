@@ -1,7 +1,3 @@
-Wow, that is an impressive run through the OverTheWire: Bandit levels! It looks like you've mastered everything from basic file manipulation and pipes to cron jobs, git history, and network sockets.
-
-Here is your summary formatted with markdown separators for better readability, exactly as requested:
-
 level 0 - ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If - cat
 
 level 1 - 263JGJPfgU6LtdEvgfWU1XP5yac29mFx - cat ./-
